@@ -1,0 +1,37 @@
+name: Update F1 Contribution Track
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day, midnight UTC
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate dark + light SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          node generate.js ${{ github.repository_owner }} dist/f1-track-dark.svg dark
+          node generate.js ${{ github.repository_owner }} dist/f1-track-light.svg light
+
+      - name: Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/*.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update F1 contribution track"
+          git push

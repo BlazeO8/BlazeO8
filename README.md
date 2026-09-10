@@ -132,6 +132,12 @@ running on caffeine and questionable sleep schedules.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BlazeO8&color=F72585&style=for-the-badge&label=VISITORS)
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/f1-track-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/f1-track-light.svg">
+  <img alt="F1 car racing across contribution graph" src="./dist/f1-track-dark.svg">
+</picture>
 
 </div>
