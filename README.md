@@ -104,10 +104,7 @@ running on caffeine and questionable sleep schedules.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlazeO8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=F72585&icon_color=4CC9F0&text_color=e6e6e6" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeO8&theme=tokyonight&hide_border=true&background=0D0D0D&ring=F72585&fire=4CC9F0&currStreakLabel=e6e6e6" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlazeO8&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=F72585&line=4CC9F0&point=ffffff" width="99%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeO8&theme=tokyonight&hide_border=true&background=0D0D0D&ring=F72585&fire=4CC9F0&currStreakLabel=e6e6e6" width="60%" />
 
 </div>
 
@@ -117,10 +114,10 @@ running on caffeine and questionable sleep schedules.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=vercel&logoColor=white)](https://blazeo8.github.io/websitetoportfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-jindal-xos53709)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hehe_kartik_8/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikjindals08@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=F72585)](https://blazeo8.github.io/websitetoportfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4CC9F0)](https://www.linkedin.com/in/kartik-jindal-xos53709)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=F72585)](https://www.instagram.com/hehe_kartik_8/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=4CC9F0)](mailto:kartikjindals08@gmail.com)
 
 </div>
 
