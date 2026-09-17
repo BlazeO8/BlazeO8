@@ -1119,8 +1119,11 @@
       <rect x="700.0" y="72.0" width="10" height="10" rx="2" fill="#161b22">
         <animate attributeName="opacity" keyTimes="0;0.9891891891891892;1;1" values="1;1;0.18;1" dur="22s" repeatCount="indefinite"/>
       </rect>
-      <rect x="700.0" y="85.0" width="10" height="10" rx="2" fill="#161b22">
+      <rect x="700.0" y="85.0" width="10" height="10" rx="2" fill="#0e4429">
         <animate attributeName="opacity" keyTimes="0;0.9918918918918919;1;1" values="1;1;0.18;1" dur="22s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="700.0" y="98.0" width="10" height="10" rx="2" fill="#161b22">
+        <animate attributeName="opacity" keyTimes="0;0.9945945945945946;1;1" values="1;1;0.18;1" dur="22s" repeatCount="indefinite"/>
       </rect>
 
   <!-- dust trail -->
