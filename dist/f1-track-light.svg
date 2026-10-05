@@ -1113,6 +1113,9 @@
       <rect x="700.0" y="46.0" width="10" height="10" rx="2" fill="#ebedf0">
         <animate attributeName="opacity" keyTimes="0;0.9837837837837838;0.9987837837837839;1" values="1;1;0.18;1" dur="22s" repeatCount="indefinite"/>
       </rect>
+      <rect x="700.0" y="59.0" width="10" height="10" rx="2" fill="#ebedf0">
+        <animate attributeName="opacity" keyTimes="0;0.9864864864864865;1;1" values="1;1;0.18;1" dur="22s" repeatCount="indefinite"/>
+      </rect>
 
   <!-- dust trail -->
   
